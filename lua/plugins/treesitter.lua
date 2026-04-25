@@ -28,7 +28,7 @@ return { -- Highlight, edit, and navigate code
 			-- 'cmake',
 			-- 'markdown',
 			-- 'markdown_inline',
-			-- 'bash',
+			"bash",
 			-- 'tsx',
 			-- 'css',
 			-- 'html',
